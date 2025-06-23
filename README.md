@@ -1,4 +1,4 @@
-<img width="1436" alt="랜딩 페이지" src="https://github.com/user-attachments/assets/742764af-a594-4188-a04b-b45d5f3ef6eb" />
+rr<img width="1436" alt="랜딩 페이지" src="https://github.com/user-attachments/assets/742764af-a594-4188-a04b-b45d5f3ef6eb" />
 
 <br/>
 <br/>
