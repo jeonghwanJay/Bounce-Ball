@@ -1,4 +1,4 @@
-rr<img width="1436" alt="랜딩 페이지" src="https://github.com/user-attachments/assets/742764af-a594-4188-a04b-b45d5f3ef6eb" />
+<img width="1436" alt="랜딩 페이지" src="https://github.com/user-attachments/assets/742764af-a594-4188-a04b-b45d5f3ef6eb" />
 
 <br/>
 <br/>
@@ -205,7 +205,6 @@ $ pnpm run dev
     - 멤버일 경우: 본인만 팀에서 나가기가 가능합니다.
   - 새로운 멤버 초대하기 기능을 통해 협업 대상을 확장할 수 있습니다.
 
-<!-- ![스크린샷 2025-06-23 02 35 58](https://github.com/user-attachments/assets/cfc8562f-49dc-438f-9b35-666ce36e6bc5) -->
 <img width="1176" alt="스크린샷 2025-06-23 11 45 01" src="https://github.com/user-attachments/assets/37b71705-f9db-497b-bb72-7d48466ad8d2" />
 
 ### 8. 팀 수정 페이지
@@ -284,14 +283,39 @@ $ pnpm run dev
 <br/>
 <br/>
 
-# 🧑‍💻 팀원 소개
-| 이나경 | 김성빈 | 오수빈 | 이유진 | 지정환
-|:------:|:------:|:------:|:------:|:------:|
-| TL, FE | FE | FE | FE | FE |
-| [GitHub](https://github.com/lee-nakyung) | [GitHub](https://github.com/kim-1997) | [GitHub](https://github.com/almighty55555) | [GitHub](https://github.com/yujin0408) | [GitHub](https://github.com/jeonghwanJay)
+# 👨‍👩‍👧‍👦 팀원 소개
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/lee-nakyung.png" width="100" /><br />
+      <b>이나경</b><br />TL, FE<br />
+      <a href="https://github.com/lee-nakyung">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kim-1997.png" width="100" /><br />
+      <b>김성빈</b><br />FE<br />
+      <a href="https://github.com/kim-1997">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/almighty5555.png" width="100" /><br />
+      <b>오수빈</b><br />FE<br />
+      <a href="https://github.com/almighty5555">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yujin0408.png" width="100" /><br />
+      <b>이유진</b><br />FE<br />
+      <a href="https://github.com/yujin0408">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/jeonghwanJay.png" width="100" /><br />
+      <b>지정환</b><br />FE<br />
+      <a href="https://github.com/jeonghwanJay">GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ![KakaoTalk_20250622_144112066](https://github.com/user-attachments/assets/ffe73a22-bb63-4b83-9249-15315ff9d511)
-
 
 <br/>
 <br/>
@@ -327,4 +351,4 @@ $ pnpm run dev
 
 ### 🔁 PR 템플릿
 
-![image](https://github.com/user-attachments/assets/c567eec4-642f-4153-8e29-44ab6f311713)
+![스크린샷 2025-06-23 05 02 46](https://github.com/user-attachments/assets/c567eec4-642f-4153-8e29-44ab6f311713)
